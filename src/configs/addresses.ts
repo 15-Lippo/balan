@@ -1,4 +1,4 @@
-import registry from '@balancer-labs/assets/generated/dex/registry.homestead.json';
+import registry from 'https://tokens.coingecko.com/uniswap/all.json';
 import registryKovan from '@balancer-labs/assets/generated/dex/registry.kovan.json';
 import { getSupportedChainName } from '../provider/connectors';
 
