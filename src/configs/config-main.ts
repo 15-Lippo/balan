@@ -1,7 +1,7 @@
 /* Main app configs go here */
 export const appConfig = {
-    name: 'Balancer',
-    shortName: 'Balancer',
+    name: 'Lisprocoin',
+    shortName: 'Lisprocoin',
     description: '',
     splashScreenBackground: '#ffffff',
 };
