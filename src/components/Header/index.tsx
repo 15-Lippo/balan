@@ -70,8 +70,6 @@ const Header = () => {
                     <AppName>{appConfig.name}</AppName>
                 </Title>
             </HeaderElement>
-            <HeaderElement>
-                <Link href="https://pools.balancer.exchange" target="_blank">
                     Add Liquidity
                 </Link>
                 <Wallet />
